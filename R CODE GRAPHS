@@ -114,8 +114,6 @@ write.csv(Dis.2,"Dis.2.csv")
 
 
 
-
-
 #Graph 5
 
 sum(Movies$Tickets.Sold[1:679])
